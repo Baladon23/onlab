@@ -1,0 +1,16 @@
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/ES2004c.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/EN2002c.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/IS1009a.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/TS3003a.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/IS1009b.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/ES2004d.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/TS3003c.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/EN2002b.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/ES2004a.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/TS3003b.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/ES2004b.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/EN2002a.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/IS1009c.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/EN2002d.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/TS3003d.Array1-01.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Array1-01/IS1009d.Array1-01.wav

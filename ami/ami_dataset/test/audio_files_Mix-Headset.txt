@@ -1,0 +1,16 @@
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/EN2002b.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/ES2004a.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/TS3003d.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/ES2004b.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/EN2002d.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/IS1009d.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/TS3003b.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/EN2002c.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/ES2004d.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/IS1009b.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/IS1009c.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/TS3003a.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/EN2002a.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/ES2004c.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/TS3003c.Mix-Headset.wav
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/audio/Mix-Headset/IS1009a.Mix-Headset.wav

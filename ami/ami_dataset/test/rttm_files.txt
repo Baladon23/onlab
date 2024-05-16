@@ -1,0 +1,16 @@
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/EN2002d.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/ES2004d.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/EN2002a.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/IS1009a.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/IS1009c.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/TS3003b.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/TS3003d.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/TS3003a.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/ES2004a.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/IS1009d.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/EN2002b.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/ES2004b.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/TS3003c.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/ES2004c.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/EN2002c.rttm
+/home/kozi/Documents/_onlab_git/ami/ami_dataset/test/rttm/IS1009b.rttm
