@@ -1,0 +1,2 @@
+uniq_id,DER,CER,FA,MISS,est_n_spk,ref_n_spk,cpWER,WER,mapping
+EN2002b,0.0283,0.0283,0.0,0.0,4,4,-,-,"{'speaker_0': 'MEE073', 'speaker_1': 'FEO072', 'speaker_2': 'MEE071', 'speaker_3': 'FEO070'}"
