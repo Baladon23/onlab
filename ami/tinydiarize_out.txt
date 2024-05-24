@@ -1,0 +1,861 @@
+[00:00.000 --> 00:00.940]  Okay. [SPEAKER TURN]
+                         
+[00:00.940 --> 00:03.620]  Wonder how much of the meetings is talking about the stuff at the meetings. [SPEAKER TURN]
+                         
+[00:03.620 --> 00:05.420]  Yeah exactly yeah yeah yeah. [SPEAKER TURN]
+                         
+[00:05.420 --> 00:07.000]  No no no no they're, stuck. [SPEAKER TURN]
+                         
+[00:07.000 --> 00:07.700]  Welcome to start. [SPEAKER TURN]
+                         
+[00:08.500 --> 00:09.260]  Okay. [SPEAKER TURN]
+                         
+[00:09.500 --> 00:10.260]  Okay. [SPEAKER TURN]
+                         
+[00:11.800 --> 00:12.480]  Right. [SPEAKER TURN]
+                         
+[00:12.500 --> 00:20.000]  So shall we just go talk about it? Shall we just go around and everyone says what they what they've been doing. [SPEAKER TURN]
+                         
+[00:21.920 --> 00:23.280]  Not a lot. [SPEAKER TURN]
+                         
+[00:24.200 --> 00:25.100]  Well I'm sorry. [SPEAKER TURN]
+                         
+[00:25.760 --> 00:26.120]  Yeah. [SPEAKER TURN]
+                         
+[00:26.440 --> 00:28.000]  Okay. Sounds like you've done so. [SPEAKER TURN]
+                         
+[00:28.440 --> 00:29.440]  Sorry.
+[00:30.000 --> 00:34.700]  Okay. Well I've got a browser now which whoops, I already know. [SPEAKER TURN]
+                         
+[00:35.460 --> 00:36.160]  What was that? [SPEAKER TURN]
+                         
+[00:36.280 --> 00:36.700]  Mm-hmm. [SPEAKER TURN]
+                         
+[00:38.000 --> 00:39.160]  Oh I dropped mine as well. [SPEAKER TURN]
+                         
+[00:41.480 --> 00:43.480]  Give it a minute. [SPEAKER TURN]
+                         
+[00:43.700 --> 00:45.080]  It's possibly a good start. [SPEAKER TURN]
+                         
+[00:48.260 --> 00:48.860]  Okay. [SPEAKER TURN]
+                         
+[00:49.380 --> 00:50.100]  So yeah. [SPEAKER TURN]
+                         
+[00:50.380 --> 01:06.720]  So yeah we've, got a browser we've um which comes up automatically with the transcription box and the topics. And then when you go on the menu you can select a summarisation box which pops up and an audio player. [SPEAKER TURN]
+                         
+[01:08.120 --> 01:08.560]  Right. [SPEAKER TURN]
+                         
+[01:08.760 --> 01:24.760]  Um and that's I think the search works as well. So you pop up a search and it loads up um just the background windows are empty and um so when you start you have to either open open a particular observation or do a search and open it through that. [SPEAKER TURN]
+                         
+[01:26.420 --> 01:27.080]  That makes sense? [SPEAKER TURN]
+                         
+[01:27.080 --> 01:28.020]  Mm-hmm. [SPEAKER TURN]
+                         
+[01:28.560 --> 01:43.940]  Um the transcription box has got a summarise bo button which doesn't do anything yet. Um now I wonder how we wanna do you know we wanna pop up window with a speaker characterisation. [SPEAKER TURN]
+                         
+[01:46.100 --> 01:46.780]  We can do it. [SPEAKER TURN]
+                         
+[01:46.920 --> 02:14.880]  Either we could do that you, know when does it pop up come? Either we can when you click on the the I.D. any sort of I.D. in the transcription box. Or we can put an extra button extra, few buttons next to a summarise button so that you actually in the transcription box but so that you click on a button and then it opens whatever that speaker characterisation is. The problem is the the left click is already used because it highlights that um [SPEAKER TURN]
+                         
+[02:14.880 --> 02:14.880]  Mm. [SPEAKER TURN]
+                         
+[02:16.580 --> 02:23.720]  that part speech or whatever that what he's been saying yeah, The left click highlights it. So that you can [SPEAKER TURN]
+                         
+[02:38.620 --> 02:39.740]  The left click. [SPEAKER TURN]
+                         
+[02:40.120 --> 02:40.800]  Mm. [SPEAKER TURN]
+                         
+[02:40.800 --> 02:41.300]  Mm. [SPEAKER TURN]
+                         
+[02:42.640 --> 02:48.720]  Um so we can't put it on left click. We could put it on the right click. We could for example have a little menu that pops up. [SPEAKER TURN]
+                         
+[02:49.440 --> 02:50.800]  Yeah, it would be quite good, that's what it is. [SPEAKER TURN]
+                         
+[02:50.800 --> 02:56.700]  So right click on it menu, you know, and you can click on speaker characterisation on pops in there. [SPEAKER TURN]
+                         
+[02:56.880 --> 02:58.000]  What else could we have in the [SPEAKER TURN]
+                         
+[02:59.340 --> 02:59.820]  Menu. [SPEAKER TURN]
+                         
+[03:00.320 --> 03:02.160]  That's a good point. I don't know. [SPEAKER TURN]
+                         
+[03:03.000 --> 03:07.000]  So otherwise you'd just have a right click on it. [SPEAKER TURN]
+                         
+[03:07.160 --> 03:10.620]  I don't know about you, but it usually in Windows you right click. It doesn't do [SPEAKER TURN]
+                         
+[03:10.740 --> 03:10.780]  Mm.
+[03:10.800 --> 03:13.380]  think there's a it opens a menu. Yeah. [SPEAKER TURN]
+                         
+[03:29.220 --> 03:40.060]  It makes a bit more sense, because otherwise you don't really know that oh, what if I right click now, what happens then It's? like yeah. [SPEAKER TURN]
+                         
+[03:40.200 --> 03:41.560]  Yeah, the menu pop-up that
+[03:43.020 --> 03:52.600]  Well oh yeah, it's more obvious isn't, it? It can do. Yeah, that's true yeah, It's more in choose. But well, yes. [SPEAKER TURN]
+                         
+[03:53.680 --> 03:54.500]  Yeah. [SPEAKER TURN]
+                         
+[03:54.600 --> 04:00.260]  I don't know where the menu at that thing is. More flexible anyway. But only like a few minutes. [SPEAKER TURN]
+                         
+[04:00.920 --> 04:05.660]  In in meeting browser one point one you can have a menu instead of a button. [SPEAKER TURN]
+                         
+[04:08.320 --> 04:09.100]  This one here. [SPEAKER TURN]
+                         
+[04:09.100 --> 04:09.700]  Intellish.
+[04:10.140 --> 04:26.680]  Um but actually what we could do is on in that menu as well we could have an option that pops up a window with all the all the meetings that that user has been in. Like a search for that user. Is that gonna be useful or too much or [SPEAKER TURN]
+                         
+[04:28.080 --> 04:32.520]  So what did you part of the b the menu that comes down is says gimme all your meetings. [SPEAKER TURN]
+                         
+[04:32.680 --> 04:39.200]  Yeah. So when you right click on it one one option will be gimme all your meetings characterise the speaker.
+[04:40.140 --> 04:40.560]  Yep. [SPEAKER TURN]
+                         
+[04:44.060 --> 05:03.460]  Or is that too much I? mean I don't know. I mean it's more like part of the browsing sort of thing more than the speaker charac their station I, think Steve mentioned it. It's true to know how to yeah, it's true to be nice to have it in connect into connect. [SPEAKER TURN]
+                         
+[05:05.720 --> 05:06.080]  Yeah. [SPEAKER TURN]
+                         
+[05:06.080 --> 05:06.680]  Yeah. [SPEAKER TURN]
+                         
+[05:06.680 --> 05:18.080]  Or a speaker characterization connect into I dunno t just some way to sort of leverage that information. Like we have it we're doing it, but what how does it help the browsing or what can it give us in browsing. [SPEAKER TURN]
+                         
+[05:25.520 --> 05:32.400]  Well you mean the the speaker characterization Oh? well, yeah I, mean I don't know about that. I mean it's the speaker characterization is a bit like you said, I mean it's like a nice thing We. don't we're not actually sure what the user wants for it, but it's interesting so, why not give it to him. [SPEAKER TURN]
+                         
+[05:32.720 --> 05:33.580]  Yeah yeah, Right. [SPEAKER TURN]
+                         
+[05:33.860 --> 05:35.660]  I I think we should do it, I mean. [SPEAKER TURN]
+                         
+[05:35.720 --> 05:53.780]  Yeah. I mean I guess maybe we could have that as another thing of like well if you get the speech characterization that someone's talks a lot in a certain topic and then if you I dunno click on that topic you'll get I think that's in that topic. [SPEAKER TURN]
+                         
+[05:53.780 --> 05:54.500]  Right, whatever. [SPEAKER TURN]
+                         
+[05:54.700 --> 06:04.260]  Yeah I mean that's that's still another level of further I mean we're not even there yet you, know. So we pop up the speaker characterization yet. You we have to first define what what happens when you click on a user. [SPEAKER TURN]
+                         
+[06:04.380 --> 06:08.940]  We have to have a speaker characterization first because we're crossing the other side. I think it's [SPEAKER TURN]
+                         
+[06:08.980 --> 06:12.020]  Yes. So shall we try try to do a right click when you're done. [SPEAKER TURN]
+                         
+[06:12.020 --> 06:15.100]  Yeah. [SPEAKER TURN]
+                         
+[06:15.380 --> 06:27.460]  Alright. Well is that just from the main even if it's one thing from any particular window? Like if we wanna sort of get like if we're on the users versus like a topic or something have, a right click from for these various things to [SPEAKER TURN]
+                         
+[06:35.880 --> 06:36.380]  Yeah.
+[06:37.620 --> 06:38.360]  Right. Yeah. [SPEAKER TURN]
+                         
+[06:38.920 --> 06:39.280]  Yeah. [SPEAKER TURN]
+                         
+[06:39.500 --> 06:44.760]  So we could do that in a similar way, do it right click as well. And have different menus. [SPEAKER TURN]
+                         
+[07:01.120 --> 07:04.200]  Then we have the interlinking by right click basically. [SPEAKER TURN]
+                         
+[07:04.480 --> 07:04.840]  Right. [SPEAKER TURN]
+                         
+[07:04.840 --> 07:05.840]  Actually yeah, like the another common thing, like if we have it so it's set up that um if you double click and it goes to a default thing on the menu, I mean that's kind of a typical kind of action you have. If you double click on a particular topic or something then it goes to sort of a like a default view, so it'll be like all the um cases of that topic either, whatever we decide the default to be, whether it's in all meetings or just in one meeting and just show up the particular instances of that topic in the meeting. Like and just think of the have the default there, so if
+[07:34.840 --> 07:42.760]  be knows exactly what they wanna do and we know that that's the most common thing that's gonna happen. So the don't want to put that do that and just say from the trouble of right clicking and choosing the item on the menu. [SPEAKER TURN]
+                         
+[07:57.040 --> 07:57.440]  Mm-hmm. [SPEAKER TURN]
+                         
+[07:58.120 --> 08:02.860]  Oh so yeah, and it it goes out what's the most common used double click. [SPEAKER TURN]
+                         
+[08:03.640 --> 08:04.060]  Mm-hmm. [SPEAKER TURN]
+                         
+[08:05.640 --> 08:06.400]  Yeah. [SPEAKER TURN]
+                         
+[08:06.400 --> 08:13.900]  Yeah but then then there's a problem with a lot of windows popping up again and they pop up without you even being quite sure what it is you know. [SPEAKER TURN]
+                         
+[08:14.360 --> 08:15.860]  Yeah. [SPEAKER TURN]
+                         
+[08:16.240 --> 08:22.120]  But if you do double click on something don't, you expect something to happen then [SPEAKER TURN]
+                         
+[08:22.720 --> 08:23.860]  Yeah maybe you should have. [SPEAKER TURN]
+                         
+[08:24.140 --> 08:24.720]  Well [SPEAKER TURN]
+                         
+[08:24.720 --> 08:31.820]  Sometimes you do it like slip away or something. I'll do a bit closer. Yeah, it's not it's not the end of the world. [SPEAKER TURN]
+                         
+[08:31.820 --> 08:53.660]  Especially if you have a touch pad. And then she goes oh. Well I'll I'll check what it does on on the double click at the moment. Because I think it might do something but, it's good stuff. But I don't I don't I'd really do see anything obvious that that's, I mean if we can think of something like
+[08:57.160 --> 08:59.360]  Oh. Sorry.
+[09:02.280 --> 09:04.780]  I guess it depends on these.
+[09:06.260 --> 09:16.680]  Yeah, what you're clicking on. So. Um yeah another, thing. Single audio files, do we wanna use them or not? [SPEAKER TURN]
+                         
+[09:17.560 --> 09:21.620]  We don't know yet do, we yeah, Davey? Do you mean single channel? [SPEAKER TURN]
+                         
+[09:21.680 --> 09:25.280]  Single channel. The single channel files, do we want them? I mean [SPEAKER TURN]
+                         
+[09:25.740 --> 09:31.060]  Probably not, but we might need them for disfluencies if we try to look at audio. [SPEAKER TURN]
+                         
+[09:31.060 --> 09:37.380]  we might use them in while to work with them, but do we wanna integrate them so that when you browse you can [SPEAKER TURN]
+                         
+[09:37.920 --> 09:40.980]  We might want to be able to say oh just give me what that person's saying. [SPEAKER TURN]
+                         
+[09:41.380 --> 09:45.020]  Do you though? I mean you're still gonna make much sense if you listen to it on its own, do you? [SPEAKER TURN]
+                         
+[09:45.040 --> 09:49.640]  Unless um you can't hear it properly or something. Somebody's talking over somebody else or something, but [SPEAKER TURN]
+                         
+[09:51.300 --> 09:53.640]  We'll just say note for now and put it in later on as well. [SPEAKER TURN]
+                         
+[09:53.920 --> 09:54.640]  Yeah. [SPEAKER TURN]
+                         
+[09:55.760 --> 09:56.380]  Come here. [SPEAKER TURN]
+                         
+[09:56.780 --> 09:57.160]  Yeah. [SPEAKER TURN]
+                         
+[09:57.160 --> 10:01.280]  Otherwise it will they it will increase the amount that it's gonna be in front of you at the moment. [SPEAKER TURN]
+                         
+[10:01.500 --> 10:01.960]  Yeah. [SPEAKER TURN]
+                         
+[10:02.120 --> 10:03.460]  The footprint will be good. [SPEAKER TURN]
+                         
+[10:06.780 --> 10:07.440]  Um
+[10:10.020 --> 10:16.400]  Yeah, w what do people think in general about the Windows cluttering that you've mentioned? Do you think we need to have [SPEAKER TURN]
+                         
+[10:17.380 --> 10:20.240]  The full flexibility we need to have out there. That's uh [SPEAKER TURN]
+                         
+[10:20.240 --> 10:24.960]  I mean I'm I'm very much I I wanna have everything customisable. [SPEAKER TURN]
+                         
+[10:25.080 --> 10:25.420]  Mm-hmm.
+[10:26.380 --> 10:35.280]  Well the thing is typically though is someone gonna have five windows open at the same time probably not Probably. just two or two or three of whatever whatever they're looking at like dialogue acts, stuff whatever, [SPEAKER TURN]
+                         
+[10:50.820 --> 10:51.360]  Mm-hmm. [SPEAKER TURN]
+                         
+[10:53.420 --> 10:56.240]  the the full transcription and the summary at the same time.
+[10:57.320 --> 11:03.460]  So maybe you can just like choose the s same window for transcription and the summary. [SPEAKER TURN]
+                         
+[11:03.580 --> 11:06.220]  It's like have a tab there for some more instructions. [SPEAKER TURN]
+                         
+[11:06.880 --> 11:09.820]  Yeah. That's a nice one. [SPEAKER TURN]
+                         
+[11:09.880 --> 11:10.580]  Mm-hmm. [SPEAKER TURN]
+                         
+[11:10.880 --> 11:11.740]  Yeah. [SPEAKER TURN]
+                         
+[11:13.040 --> 11:16.240]  That's right I'm, not sure yeah, I dunno if you'd say it. [SPEAKER TURN]
+                         
+[11:16.240 --> 11:21.980]  Yeah, you're right. I don't think John's amazing to do that really. Maybe you probably can, but fair enough. [SPEAKER TURN]
+                         
+[11:22.280 --> 11:23.240]  Yeah. [SPEAKER TURN]
+                         
+[11:23.240 --> 11:30.620]  really knew what he was doing. But I don't know. It's a bit of a cripple job as a windowing tool kit. The eight isn't sometimes. It's a bit of a krypton. [SPEAKER TURN]
+                         
+[11:30.720 --> 11:32.820]  Mm-hmm. I can have a look. [SPEAKER TURN]
+                         
+[11:34.080 --> 11:34.480]  Yeah. [SPEAKER TURN]
+                         
+[11:34.820 --> 11:38.660]  Yeah. Or just I dunno. But yeah, that might be an idea. [SPEAKER TURN]
+                         
+[11:43.940 --> 11:44.660]  Yeah. [SPEAKER TURN]
+                         
+[11:44.660 --> 11:45.000]  Yeah. [SPEAKER TURN]
+                         
+[11:47.760 --> 11:52.580]  Yeah, or even just have buttons on it. Talk about things or something on the toolbar of that window. [SPEAKER TURN]
+                         
+[11:53.060 --> 11:53.540]  Hmm. [SPEAKER TURN]
+                         
+[11:54.340 --> 11:55.060]  Just something. [SPEAKER TURN]
+                         
+[11:55.960 --> 11:57.280]  Yeah, I think but, [SPEAKER TURN]
+                         
+[11:57.280 --> 11:58.900]  It doesn't doesn't have to be a tab or whatever. [SPEAKER TURN]
+                         
+[11:58.980 --> 12:05.360]  No no, it could be like transcription summary. Like two letters and you just press on which one. [SPEAKER TURN]
+                         
+[12:05.360 --> 12:05.360]  Yeah. [SPEAKER TURN]
+                         
+[12:05.360 --> 12:18.180]  Yeah, that'll reduce the number of um Windows really, wouldn't it Which. is probably good. Except for my it's Photoshop has a lot of Windows. If you ever use Photoshop, it's got loads and you're always good for ever going, I'll get out of the way. There's always stuff in the way isn't, there. [SPEAKER TURN]
+                         
+[12:18.860 --> 12:28.720]  Um well I don't mean people get used to it. I mean when you use a Windows or Linux or whatever, you have a lot of Windows open. You manage them. [SPEAKER TURN]
+                         
+[12:30.860 --> 12:32.060]  True. [SPEAKER TURN]
+                         
+[12:32.080 --> 12:42.400]  Yeah. Unless can you I don't suppose you can minimise them and stuff like that. Can can you do that now? Okay. Well that's alright, yeah. Yeah. Of course you can actually, yes. [SPEAKER TURN]
+                         
+[12:55.400 --> 12:55.420]  Yeah. [SPEAKER TURN]
+                         
+[12:57.960 --> 12:58.500]  Okay. [SPEAKER TURN]
+                         
+[12:58.560 --> 12:59.360]  Which was fine. [SPEAKER TURN]
+                         
+[12:59.600 --> 13:15.160]  Yeah, that that was a plan for the disp
+[13:19.760 --> 13:26.700]  Then like full meeting meeting without displices and summaries. Yeah? Do you wanna read that? Yeah. [SPEAKER TURN]
+                         
+[13:27.300 --> 13:27.840]  Yeah, so it's good.
+[13:28.500 --> 13:28.500]  Yeah. [SPEAKER TURN]
+                         
+[13:30.300 --> 13:30.740]  Mm. [SPEAKER TURN]
+                         
+[13:31.080 --> 13:31.580]  Yeah. [SPEAKER TURN]
+                         
+[13:36.500 --> 13:42.500]  And finally the prototype you, see paper about. What kind of prototype could we produce? [SPEAKER TURN]
+                         
+[13:43.040 --> 13:43.980]  By the end of February? [SPEAKER TURN]
+                         
+[13:44.280 --> 13:56.500]  Because I am I'm just you know I go into the lab and I say, what am I gonna change today you, know And. it kind of just it just develops I'm. not aiming for anything. Do we wanna aim for something? [SPEAKER TURN]
+                         
+[13:57.280 --> 13:58.480]  Um
+[13:58.500 --> 13:58.780]  Mm. [SPEAKER TURN]
+                         
+[14:01.460 --> 14:06.680]  I'm I'm pretty much getting there anyway to, know this. So it's not gonna be a lot more uh [SPEAKER TURN]
+                         
+[14:06.680 --> 14:16.860]  I guess it is. I mean just to try and I mean for us to to be able to do something then we can include with your thing some some reason Yeah. Yeah. [SPEAKER TURN]
+                         
+[14:21.600 --> 14:25.840]  See the integration works. So we can do I think I've got a job. [SPEAKER TURN]
+                         
+[14:25.900 --> 14:26.420]  Definitely. [SPEAKER TURN]
+                         
+[14:26.860 --> 14:27.260]  I dunno.
+[14:28.860 --> 14:30.980]  So I guess that's what you're gonna take with one. [SPEAKER TURN]
+                         
+[14:30.980 --> 14:36.180]  I think that's kinda what he meant as well, isn't it? Like saying it saying it's lots of start today stuff, rather than just being [SPEAKER TURN]
+                         
+[14:36.260 --> 14:37.500]  Well, I would say anything. [SPEAKER TURN]
+                         
+[14:37.580 --> 14:39.200]  Mm-hmm. I'm trying to talk with the GUI. [SPEAKER TURN]
+                         
+[14:39.300 --> 14:48.700]  Yeah. Well, I guess I mean that was probably our intention, but we m might not have written it down. So [SPEAKER TURN]
+                         
+[14:48.720 --> 14:49.780]  Yeah. [SPEAKER TURN]
+                         
+[14:50.800 --> 14:51.360]  I dunno. [SPEAKER TURN]
+                         
+[14:51.940 --> 15:05.060]  Actually is the code accessible, like the the GUI stuff that you've done there? Like can we just like copy like the latest stuff out of your directory or something like that? Like if we're gonna just try and like take a look or something. Try and just like install it. [SPEAKER TURN]
+                         
+[15:15.360 --> 15:17.980]  I dunno if it's readable at the moment, but you can show how to how to how to look at it. [SPEAKER TURN]
+                         
+[15:18.220 --> 15:25.480]  No they're not world-readable, they're not d d they're only default then only you can read them like if you can see them but, you can't read them. [SPEAKER TURN]
+                         
+[15:25.480 --> 15:26.320]  Okay. [SPEAKER TURN]
+                         
+[15:26.320 --> 15:32.420]  Right well I'll make that readable then. Um so the directory is my number. [SPEAKER TURN]
+                         
+[15:32.520 --> 15:35.680]  Or you could just email to us or I could yeah, yeah. [SPEAKER TURN]
+                         
+[15:35.680 --> 15:36.340]  Right. [SPEAKER TURN]
+                         
+[15:36.340 --> 15:37.180]  What's your number? [SPEAKER TURN]
+                         
+[15:37.280 --> 15:37.840]  Okay. [SPEAKER TURN]
+                         
+[15:37.840 --> 15:39.080]  It's in all the emails. [SPEAKER TURN]
+                         
+[15:39.080 --> 15:39.500]  Yeah. [SPEAKER TURN]
+                         
+[15:40.480 --> 15:41.580]  Your number. [SPEAKER TURN]
+                         
+[15:42.060 --> 15:43.340]  Not O four. [SPEAKER TURN]
+                         
+[15:43.900 --> 15:44.340]  Okay. [SPEAKER TURN]
+                         
+[15:44.380 --> 15:46.820]  O four five, five.
+[15:48.460 --> 16:01.840]  Six O. Say that again. O four five five five six O. And then um there's a folder um N-L-S-S-D. And it's called the M browser. [SPEAKER TURN]
+                         
+[16:12.880 --> 16:16.100]  No I'm I'm extremely old then I've, got a full circle I, love full length. [SPEAKER TURN]
+                         
+[16:16.100 --> 16:22.100]  Mine is too risky I, also. So far as I've ever been. [SPEAKER TURN]
+                         
+[16:26.280 --> 16:29.360]  Yep. So that's me then. Someone else wanna talk about this then? [SPEAKER TURN]
+                         
+[16:31.900 --> 16:33.120]  Time will jump once. [SPEAKER TURN]
+                         
+[16:33.120 --> 16:59.080]  I can tell you what I'm an S.P.T. Oh um I, basically I started like browsing a bit just like trying to see if there's anything out there to use to sort of um listen to what we're doing again. Yeah, so yeah hopefully, I'll start with the
+[16:59.320 --> 17:04.820]  found a tutorial that uh inverted the search to indexing, but I haven't read anything except [SPEAKER TURN]
+                         
+[17:22.540 --> 17:23.080]  Mm-hmm. [SPEAKER TURN]
+                         
+[17:24.540 --> 17:24.940]  Yeah. [SPEAKER TURN]
+                         
+[17:25.080 --> 17:29.060]  We'll probably still have to use some other file management where I'll I'll make quite sure I'll mess around. [SPEAKER TURN]
+                         
+[17:29.080 --> 17:29.580]  Yeah. [SPEAKER TURN]
+                         
+[17:29.580 --> 17:30.020]  Mm-hmm. [SPEAKER TURN]
+                         
+[17:30.620 --> 17:32.240]  But her basics is it okay, that's key. [SPEAKER TURN]
+                         
+[17:32.240 --> 17:38.000]  Yeah. Yeah that's, handy. Mm yeah. So you think it shouldn't be too difficult? [SPEAKER TURN]
+                         
+[17:40.080 --> 17:57.700]  I dunno I'm I was a bit worried about one well, when he talked about this with um file let's not with files I, mean how much do we actually need to do like extracting things from the X M L files and stuff to be able to do the indexing? [SPEAKER TURN]
+                         
+[17:57.940 --> 18:02.600]  Oh I, see. Yeah. You have to convert it to some sort of format I suppose. [SPEAKER TURN]
+                         
+[18:02.600 --> 18:13.400]  Yeah. I've been trying to g write something to read the X M L and get rid of it. And I can get rid of it, but I'm having trouble putting you anywhere else. So it'll come up on the screen. [SPEAKER TURN]
+                         
+[18:13.400 --> 18:22.220]  Right. But at the moment I haven't managed to put it into the vector or whatever in Java to play with it, but I guess I'm ready for it. [SPEAKER TURN]
+                         
+[18:22.480 --> 18:23.220]  Yeah. [SPEAKER TURN]
+                         
+[18:23.220 --> 18:23.720]  Yeah. [SPEAKER TURN]
+                         
+[18:23.820 --> 18:24.140]  Right. [SPEAKER TURN]
+                         
+[18:24.740 --> 18:25.100]  Yeah. [SPEAKER TURN]
+                         
+[18:26.200 --> 18:27.360]  So you're gonna have to [SPEAKER TURN]
+                         
+[18:27.360 --> 18:36.360]  have a look have a look at the the browser code then because um you know they're already extract for example transcripts. So you can do that at least. [SPEAKER TURN]
+                         
+[18:36.360 --> 18:37.020]  Yeah. [SPEAKER TURN]
+                         
+[18:38.200 --> 18:39.120]  That's good idea. [SPEAKER TURN]
+                         
+[18:39.280 --> 18:39.860]  Yeah.
+[18:41.700 --> 18:50.160]  Oh yeah. I'm uh sure I'm sure I'm making a make of it. It's another letter. [SPEAKER TURN]
+                         
+[18:50.160 --> 18:50.660]  Um.
+[18:53.900 --> 19:10.680]  Um yeah I guess I mean it was a good point we had that like collaborating with foul things I mean if you already started on um stuff I guess we can yeah. [SPEAKER TURN]
+                         
+[19:11.260 --> 19:13.080]  Libraries. Yeah. [SPEAKER TURN]
+                         
+[19:13.400 --> 19:13.720]  Yeah.
+[19:15.200 --> 19:16.400]  Should we I don't know
+[19:16.400 --> 19:16.900]  Yeah.
+[19:24.640 --> 19:25.160]  Yeah. [SPEAKER TURN]
+                         
+[19:25.400 --> 19:28.400]  Next week something. [SPEAKER TURN]
+                         
+[19:28.400 --> 19:31.400]  Yeah exactly. So you're still working. [SPEAKER TURN]
+                         
+[19:31.400 --> 19:33.920]  I actually haven't done anything this week, it's this week's been manic though. [SPEAKER TURN]
+                         
+[19:33.920 --> 19:34.420]  Yeah. [SPEAKER TURN]
+                         
+[19:34.420 --> 19:37.400]  Yeah I. mean this week's only two days old. [SPEAKER TURN]
+                         
+[19:37.400 --> 19:46.340]  Well whatever it was last week then. The the the week as as is rather than the proper week you know I, mean so it's been a little bit manic the last the last [SPEAKER TURN]
+                         
+[19:46.400 --> 19:48.160]  Well you're an S.P. and L.P. and S.P. two right, [SPEAKER TURN]
+                         
+[19:48.160 --> 19:56.060]  Yeah that's right. And then we had to do an I.R.P. whatever it was last week as well. Which is only on page one, but it's quite difficult to write a page. [SPEAKER TURN]
+                         
+[19:56.160 --> 19:56.900]  Yeah. [SPEAKER TURN]
+                         
+[19:56.900 --> 19:57.400]  Yeah. [SPEAKER TURN]
+                         
+[19:57.400 --> 19:57.900]  Yeah. [SPEAKER TURN]
+                         
+[19:57.900 --> 19:59.180]  That was complete rubbish then. [SPEAKER TURN]
+                         
+[19:59.200 --> 20:05.760]  Yeah but it was but it was I had to sit everything about it for a bit and I was like yeah but, S.P. and L.P. are for your hook. [SPEAKER TURN]
+                         
+[20:05.760 --> 20:08.920]  Yeah that's, fun. [SPEAKER TURN]
+                         
+[20:09.200 --> 20:09.900]  Well yeah. [SPEAKER TURN]
+                         
+[20:09.920 --> 20:11.500]  Okay. [SPEAKER TURN]
+                         
+[20:11.860 --> 20:12.400]  Um [SPEAKER TURN]
+                         
+[20:12.400 --> 20:22.740]  So yeah I was thinking that we can probably get started tacking this seriously. I'm just um you know hopefully have something by next week that we can sort of try and integrate it into the Google. [SPEAKER TURN]
+                         
+[20:23.020 --> 20:43.840]  Mm-hmm. Yeah. Well the m the browsers I use it now or as I you know it, was there when I took it Um. uses the um the NXT search to get the data out of the out of the files, which I think is odd, but I'm not quite sure how it works yet. I don't quite understand it. [SPEAKER TURN]
+                         
+[20:44.300 --> 20:46.340]  So when it when it [SPEAKER TURN]
+                         
+[20:47.000 --> 20:55.840]  To get the data, for example to get summarisation data, you have to search for I think the I.D.'s on something. Yeah. [SPEAKER TURN]
+                         
+[20:56.260 --> 20:59.780]  That's pretty bizarre, isn't it? I guess that's right, where it's got the
+[21:01.500 --> 21:02.620]  That is pretty bizarre. [SPEAKER TURN]
+                         
+[21:03.540 --> 21:09.100]  So they don't you know they don't say look in that map folder, they just say search everything. [SPEAKER TURN]
+                         
+[21:09.100 --> 21:10.340]  Yeah, yeah. [SPEAKER TURN]
+                         
+[21:10.420 --> 21:11.700]  That is pretty bizarre, right?
+[21:12.680 --> 21:15.700]  Hmm. Well they did say it wasn't the most efficient.
+[21:17.340 --> 21:23.040]  And it does load up quite quickly, sorry. That's not too much. But you know it can have a look. [SPEAKER TURN]
+                         
+[21:40.680 --> 21:41.400]  So it's good.
+[21:41.400 --> 21:46.800]  the string I, dunno transcript, or text or whatever. [SPEAKER TURN]
+                         
+[21:46.960 --> 21:53.940]  For and it what it like it just has an open variable transcript, whatever find, everything that's got that and then loads. [SPEAKER TURN]
+                         
+[22:09.820 --> 22:10.260]  Mm. [SPEAKER TURN]
+                         
+[22:10.540 --> 22:11.180]  Mm.
+[22:11.400 --> 22:21.660]  These files have got um an I.D. and all the transcript files got the string I, dunno what it is, words or text or something in it. So just search just for those files. [SPEAKER TURN]
+                         
+[22:22.320 --> 22:22.800]  Okay. [SPEAKER TURN]
+                         
+[22:22.860 --> 22:23.700]  What are they doing? [SPEAKER TURN]
+                         
+[22:25.600 --> 22:36.920]  What do you like is there a open thingy or what are you like what what do you do to like how do we figure out that this user can just need search like, [SPEAKER TURN]
+                         
+[22:37.480 --> 22:41.040]  Um is it in um well it's in the code. [SPEAKER TURN]
+                         
+[22:41.120 --> 22:50.380]  just that it you know it yep you define a search object and then you look at that string. I had to figure out how to how to do the same thing for the summary that's, that way. [SPEAKER TURN]
+                         
+[22:51.960 --> 22:53.340]  Oh, I see I, mean [SPEAKER TURN]
+                         
+[22:53.960 --> 22:56.520]  How they did the transcript how they did the transcript to do the summary and stuff. [SPEAKER TURN]
+                         
+[22:56.580 --> 22:59.320]  So did you have to write it in the way that they write it is, that what you did? [SPEAKER TURN]
+                         
+[22:59.320 --> 23:03.040]  Yeah, just search for a specific string. [SPEAKER TURN]
+                         
+[23:03.400 --> 23:03.720]  Right. [SPEAKER TURN]
+                         
+[23:03.720 --> 23:05.860]  Okay. [SPEAKER TURN]
+                         
+[23:05.860 --> 23:11.220]  So you could just you know you could use that when you if you wanna um take the data out. [SPEAKER TURN]
+                         
+[23:11.220 --> 23:13.220]  Pushed the data out I was just thinking that yeah, [SPEAKER TURN]
+                         
+[23:13.220 --> 23:13.560]  Yeah.
+[23:16.660 --> 23:25.680]  If you have a a question about what the c the code means or where to find the code that you wanna you know whatever you wanna do then just send me an email. [SPEAKER TURN]
+                         
+[23:25.680 --> 23:26.120]  Mm-hmm. [SPEAKER TURN]
+                         
+[23:26.800 --> 23:28.660]  I can explain it. Yeah. [SPEAKER TURN]
+                         
+[23:28.840 --> 23:30.480]  Have you annotated your code? [SPEAKER TURN]
+                         
+[23:30.680 --> 23:56.080]  Oh yeah. Actually in the moment it's got a load of rubbish because the the the browser that I used from the st from you know that they gave us had a lot of extra stuff in and hadn't dared throw an app to throw out all the functions of the hav you know like the need. Yeah, just exactly. Yes. So they're all in there, yeah. Still. A lot of rubbish but, it will be get it will be chucked down right the end I think. [SPEAKER TURN]
+                         
+[24:00.140 --> 24:00.140]  Yeah.
+[24:00.480 --> 24:02.480]  Yeah. Yeah. Yeah. [SPEAKER TURN]
+                         
+[24:02.620 --> 24:03.640]  So I see. [SPEAKER TURN]
+                         
+[24:04.400 --> 24:07.060]  Good plan. [SPEAKER TURN]
+                         
+[24:12.240 --> 24:14.160]  Basically we got kind of this work maybe. [SPEAKER TURN]
+                         
+[24:14.160 --> 24:15.020]  Yeah that's, true. [SPEAKER TURN]
+                         
+[24:15.080 --> 24:15.800]  See how we can do that. [SPEAKER TURN]
+                         
+[24:16.120 --> 24:18.000]  Yeah, let's do that. I'm gonna make the vog in the short one. [SPEAKER TURN]
+                         
+[24:18.000 --> 24:20.240]  Weekend? The weekend's still four days off. [SPEAKER TURN]
+                         
+[24:21.180 --> 24:26.080]  Yeah, four. I'm still at the bottom of the mountain actually. [SPEAKER TURN]
+                         
+[24:26.100 --> 24:27.200]  How many hours is this? [SPEAKER TURN]
+                         
+[24:27.540 --> 24:29.520]  I don't actually have that much to do at the moment. [SPEAKER TURN]
+                         
+[24:29.880 --> 24:32.460]  Well should you play the important to explore any other [SPEAKER TURN]
+                         
+[24:32.760 --> 24:34.140]  Yeah. Yeah. [SPEAKER TURN]
+                         
+[24:34.140 --> 24:35.220]  Three hours yeah, [SPEAKER TURN]
+                         
+[24:35.400 --> 24:36.220]  Well [SPEAKER TURN]
+                         
+[24:36.220 --> 24:39.520]  How's your how's your um uh quantifier raising? [SPEAKER TURN]
+                         
+[24:40.100 --> 24:43.300]  Mm yeah. [SPEAKER TURN]
+                         
+[24:43.300 --> 24:47.620]  I can't remember what I'm supposed to do by the way. Am I supposed to do the summarisation thingy-bop? [SPEAKER TURN]
+                         
+[24:48.720 --> 24:49.220]  Mm. [SPEAKER TURN]
+                         
+[24:54.000 --> 24:54.380]  No. [SPEAKER TURN]
+                         
+[24:55.520 --> 24:56.180]  Who was doing that? [SPEAKER TURN]
+                         
+[24:56.180 --> 24:56.680]  Mm. [SPEAKER TURN]
+                         
+[24:59.280 --> 24:59.720]  You do. [SPEAKER TURN]
+                         
+[24:59.720 --> 25:01.880]  Oh really? You didn't do something. [SPEAKER TURN]
+                         
+[25:02.100 --> 25:02.940]  Well I'll do that then. [SPEAKER TURN]
+                         
+[25:02.940 --> 25:03.680]  These can be changed. [SPEAKER TURN]
+                         
+[25:04.420 --> 25:05.440]  Should I do that then? [SPEAKER TURN]
+                         
+[25:05.440 --> 25:12.200]  Um I don't know it, doesn't matter. If if you want to I, mean let's just you know play around with some extra stuff, you have some time. Why not. [SPEAKER TURN]
+                         
+[25:12.360 --> 25:13.700]  You should only do it for one minute. [SPEAKER TURN]
+                         
+[25:16.880 --> 25:19.100]  So what courses should I have picked are we not doing anywhere? [SPEAKER TURN]
+                         
+[25:19.100 --> 25:21.140]  Yeah. [SPEAKER TURN]
+                         
+[25:21.140 --> 25:29.780]  Well I'm doing communications of which we had one exercise and I've done that like two weeks ago. And that's in in two weeks. [SPEAKER TURN]
+                         
+[25:30.200 --> 25:33.620]  Is that in in Informatics courses? Or is that on? [SPEAKER TURN]
+                         
+[25:33.900 --> 25:36.320]  I would like digital, yeah. [SPEAKER TURN]
+                         
+[25:36.840 --> 25:37.760]  Okay. [SPEAKER TURN]
+                         
+[25:37.760 --> 25:37.840]  Okay. [SPEAKER TURN]
+                         
+[25:39.000 --> 25:47.880]  And then I'm doing um parallel programming languages in Sisters. Which we had one exercise as well and that seemed like Friday.
+[25:51.500 --> 25:55.760]  Well I'm not doing any back-hand meetings, are you? [SPEAKER TURN]
+                         
+[25:57.020 --> 25:57.640]  I'm going away. [SPEAKER TURN]
+                         
+[25:57.640 --> 25:58.900]  So it's all okay. [SPEAKER TURN]
+                         
+[25:59.060 --> 25:59.480]  Yeah. [SPEAKER TURN]
+                         
+[25:59.480 --> 26:00.140]  Mm-hmm. [SPEAKER TURN]
+                         
+[26:00.480 --> 26:00.900]  Mm. [SPEAKER TURN]
+                         
+[26:01.640 --> 26:03.760]  Yes I'll, be happy when this week is over. [SPEAKER TURN]
+                         
+[26:04.220 --> 26:05.120]  Okay, me too. [SPEAKER TURN]
+                         
+[26:05.340 --> 26:07.420]  Happy halfway to the course you said we're fun. [SPEAKER TURN]
+                         
+[26:07.420 --> 26:09.340]  Yeah. [SPEAKER TURN]
+                         
+[26:10.500 --> 26:14.700]  I dunno Is. that about it though? I dunno. Anything else we need to discuss? [SPEAKER TURN]
+                         
+[26:14.840 --> 26:15.500]  Mm-hmm. [SPEAKER TURN]
+                         
+[26:16.480 --> 26:20.660]  Did we wanna meet before we talk to Steve next week?
+[26:22.920 --> 26:31.100]  Well, I dunno. We'll probably get some work done over the weekend so, I know if after a D.M.L.G. or something maybe just have a little quick little update and just [SPEAKER TURN]
+                         
+[26:33.700 --> 26:34.200]  Yeah. [SPEAKER TURN]
+                         
+[26:34.200 --> 26:35.520]  We can always decide then, I dunno. [SPEAKER TURN]
+                         
+[26:35.860 --> 26:36.180]  Yeah. [SPEAKER TURN]
+                         
+[26:37.400 --> 26:39.960]  Um so what what are you planning to do over the weekend then? [SPEAKER TURN]
+                         
+[26:40.340 --> 26:40.860]  Search. [SPEAKER TURN]
+                         
+[26:41.460 --> 26:42.360]  Mm-hmm. [SPEAKER TURN]
+                         
+[26:42.420 --> 26:44.860]  You're gonna do the search. You're gonna come in the search. [SPEAKER TURN]
+                         
+[26:45.080 --> 26:45.280]  Yeah.
+[26:45.960 --> 27:04.100]  Couldn't be that odd. Well, it'll be, you know, still a limited version of you know the next query. Uh, it won't be the whole thing but, um like we can just decide sort of the things that we do wanna do. Yeah. Well actually most of just dialogue acts and I suppose we'll
+[27:10.960 --> 27:13.220]  There's some re topics.
+[27:15.500 --> 27:18.580]  Yeah. [SPEAKER TURN]
+                         
+[27:18.820 --> 27:25.340]  It's just that I think we need to set ourselves some milestones because otherwise, you know. [SPEAKER TURN]
+                         
+[27:25.920 --> 27:38.260]  Yeah, we get behind schedule, yeah pretty, quick. Like you said, yeah. Well actually do we wanna set a date for interim of prototype? Specifically a date. [SPEAKER TURN]
+                         
+[27:40.820 --> 27:45.140]  And s well you decide I'm not very much for my prototype, are you?
+[27:45.500 --> 27:54.340]  The production for is June twenty, two third of February. [SPEAKER TURN]
+                         
+[27:54.660 --> 27:57.620]  Um so so what's that two weeks, basically? [SPEAKER TURN]
+                         
+[27:57.700 --> 28:01.860]  Um well how about we get it done by then I, mean. [SPEAKER TURN]
+                         
+[28:02.740 --> 28:03.520]  If yeah. [SPEAKER TURN]
+                         
+[28:04.420 --> 28:09.740]  Then we can write about it in a in a interim report. You know, s you know now we've got something to show. [SPEAKER TURN]
+                         
+[28:09.780 --> 28:10.220]  So then
+[28:15.500 --> 28:20.860]  I'm just looking at the middle of the deadlines. [SPEAKER TURN]
+                         
+[28:22.500 --> 28:23.000]  I see. [SPEAKER TURN]
+                         
+[28:23.000 --> 28:28.220]  Yeah. Um oh and the the search interface.
+[28:30.840 --> 28:36.900]  Maybe you should decide pretty pretty early what kind of things you wanna be able to search for. [SPEAKER TURN]
+                         
+[28:37.180 --> 28:37.660]  Yeah. [SPEAKER TURN]
+                         
+[28:38.140 --> 28:43.980]  And then if you want you can give that to me and I'll I'll build you a nice you know a few tick boxes and drop-down menus. [SPEAKER TURN]
+                         
+[28:44.920 --> 28:51.820]  Wasn't like what do you have now? Wasn't that pretty much a a little bit dumb? Or was it just just some one? [SPEAKER TURN]
+                         
+[29:08.440 --> 29:09.320]  No. Oh that's that's that doesn't exist. That is completely cut and pasted. That does not exist. Nicely done though, isn't it? [SPEAKER TURN]
+                         
+[29:09.340 --> 29:11.480]  Yeah it's just quite impressive actually. [SPEAKER TURN]
+                         
+[29:11.480 --> 29:14.940]  A screenshot of Google. [SPEAKER TURN]
+                         
+[29:14.940 --> 29:15.560]  Oh. [SPEAKER TURN]
+                         
+[29:16.720 --> 29:20.740]  That's not very much. [SPEAKER TURN]
+                         
+[29:36.740 --> 29:39.680]  No it's not, isn't yeah. This I don't have on over the weekend. [SPEAKER TURN]
+                         
+[29:39.800 --> 29:49.340]  Yeah, I do wanna you know just get together and think about the different types of search we could possibly do and then and then we could discuss at next meeting which options we really wanna include. [SPEAKER TURN]
+                         
+[29:51.100 --> 29:51.580]  Mm-hmm. [SPEAKER TURN]
+                         
+[29:51.580 --> 29:56.040]  I would probably involve researching the query language a bit as well to see what that can do. [SPEAKER TURN]
+                         
+[29:56.440 --> 29:56.880]  Yeah. [SPEAKER TURN]
+                         
+[29:56.880 --> 30:16.400]  It would be nice to um meet up and you can sort of show us a bit you know already so we don't sort of have to do all the work again you know just like figuring out stuff. No no already well, just like accessing the corpus and stuff. [SPEAKER TURN]
+                         
+[30:16.400 --> 30:39.920]  Yeah. Just like all the and seeing the code and just sort of how just see the basics of what you've done. Like just get a a quick look over and just take a sorta tutorial and see how it works. Like you know the class paths all, that sort of thing. Like just say okay well here's you know everything's basic all set up and then just yeah just jump right in. Yeah. Yeah. Yeah. Yeah. Yeah. [SPEAKER TURN]
+                         
+[30:39.920 --> 30:40.920]  morning. [SPEAKER TURN]
+                         
+[30:40.920 --> 30:48.420]  No. Yeah. Well there's some I'm doing taking classes. By the by the way you can't do anything. [SPEAKER TURN]
+                         
+[30:48.420 --> 31:02.760]  The whole thing is you know something like that could happen any time, because uh yeah like my schedule is like a class break class break class. You know sort of I think it's time. Yeah I know exactly exactly. That's what I'm thinking. So something like that and then if I have a class I can run off and do whatever. [SPEAKER TURN]
+                         
+[31:03.260 --> 31:03.920]  Yeah. [SPEAKER TURN]
+                         
+[31:04.280 --> 31:05.900]  Oh my God. Um. [SPEAKER TURN]
+                         
+[31:06.160 --> 31:08.260]  Oh Monday, m Monday might be good. Um. [SPEAKER TURN]
+                         
+[31:08.260 --> 31:09.360]  Yeah. Well Monday.
+[31:10.240 --> 31:20.580]  Yeah. Yeah. Anytime. Um not at not at noon or two or four. No in between those yeah, like one or three or [SPEAKER TURN]
+                         
+[31:29.580 --> 31:29.940]  Yeah. [SPEAKER TURN]
+                         
+[31:31.520 --> 31:33.160]  Yeah that's an option too. Hmm. [SPEAKER TURN]
+                         
+[31:33.280 --> 31:33.780]  Deep. [SPEAKER TURN]
+                         
+[31:35.260 --> 31:35.580]  Okay. [SPEAKER TURN]
+                         
+[31:35.860 --> 31:39.980]  Three's good though. Um but we haven't thought well, what's what's your fair? [SPEAKER TURN]
+                         
+[31:40.100 --> 31:40.820]  Or three thirty. [SPEAKER TURN]
+                         
+[31:41.920 --> 31:43.000]  I just yeah. [SPEAKER TURN]
+                         
+[31:43.380 --> 31:44.680]  Doesn't that spend any time? [SPEAKER TURN]
+                         
+[31:45.340 --> 31:48.780]  Three thirty in the in the computer room in here and we just have to go. [SPEAKER TURN]
+                         
+[31:49.220 --> 31:53.600]  If you can't can you get in the front door? Oh we haven't got a key do, Can none of you get in? [SPEAKER TURN]
+                         
+[31:53.600 --> 31:57.440]  We we can get in the three D through the the current remote control. [SPEAKER TURN]
+                         
+[31:57.860 --> 31:59.580]  I've not found that yet. [SPEAKER TURN]
+                         
+[31:59.720 --> 32:00.440]  Right it's in here. [SPEAKER TURN]
+                         
+[32:00.940 --> 32:05.220]  Well if you find me I'll show you where our letters all in there and we can look in there. [SPEAKER TURN]
+                         
+[32:05.220 --> 32:08.300]  We can look now afterwards. Yeah. [SPEAKER TURN]
+                         
+[32:08.780 --> 32:09.300]  Yeah. [SPEAKER TURN]
+                         
+[32:09.580 --> 32:10.300]  Alright. [SPEAKER TURN]
+                         
+[32:10.720 --> 32:11.920]  Just for thing. [SPEAKER TURN]
+                         
+[32:12.180 --> 32:13.140]  Yeah somebody, like [SPEAKER TURN]
+                         
+[32:13.220 --> 32:19.260]  I was asking Steve about that whether we can get in there whether he was gonna get us access into the the computer room. [SPEAKER TURN]
+                         
+[32:20.020 --> 32:20.580]  Yeah. [SPEAKER TURN]
+                         
+[32:20.580 --> 32:28.300]  It's only got it's crap so, we go out at four or five to meet soon but, it would do quite a good for our job because in Kindle sit-in-house it's not very ergonomic, we're peeking in at the moment. [SPEAKER TURN]
+                         
+[32:29.240 --> 32:30.640]  Yeah it's, pretty much. [SPEAKER TURN]
+                         
+[32:30.680 --> 32:33.740]  And there's a photocopier with the code on it yeah, I know. [SPEAKER TURN]
+                         
+[32:33.920 --> 32:34.800]  Yes. [SPEAKER TURN]
+                         
+[32:34.800 --> 32:35.200]  It's cool.
+[32:35.220 --> 32:35.720]  Yeah. [SPEAKER TURN]
+                         
+[32:35.720 --> 32:42.220]  I think we should put it at your uh assignment. I'm not gonna include what I do. [SPEAKER TURN]
+                         
+[32:42.500 --> 32:50.700]  We've got it on my computer. What else might we do? So what time do we say? I just think it's better to do it afterwards than we have all the time. [SPEAKER TURN]
+                         
+[32:50.960 --> 32:51.580]  Oh right. [SPEAKER TURN]
+                         
+[32:51.580 --> 32:54.240]  Yeah, than have half an hour and then we'll initially run out. [SPEAKER TURN]
+                         
+[32:55.160 --> 32:55.580]  Yeah. [SPEAKER TURN]
+                         
+[32:57.080 --> 32:57.980]  Okay. [SPEAKER TURN]
+                         
+[32:58.620 --> 33:00.380]  Just long as DMLG doesn't go late. [SPEAKER TURN]
+                         
+[33:01.780 --> 33:03.540]  Hopefully it's not that man's out, it won't matter.
+[33:06.200 --> 33:07.880]  Actually it's not even confirmed yet. [SPEAKER TURN]
+                         
+[33:08.600 --> 33:11.100]  What? She doesn't even know what she's talking about. [SPEAKER TURN]
+                         
+[33:12.720 --> 33:14.480]  Maybe it doesn't happen at all. [SPEAKER TURN]
+                         
+[33:14.720 --> 33:15.220]  Yeah. [SPEAKER TURN]
+                         
+[33:15.220 --> 33:23.120]  It's really a week next week. Should be. Is it really? Well it's supposed to be Next week. It's week six next week. [SPEAKER TURN]
+                         
+[33:24.560 --> 33:26.040]  I don't think we have a reading week now, does it? [SPEAKER TURN]
+                         
+[33:26.060 --> 33:34.820]  We have one class at least when we get like speech perception we, don't have any lectures, but I think we're having like a lot of classes, so I don't think there is not much point in [SPEAKER TURN]
+                         
+[33:34.820 --> 33:38.740]  I don't think there was an official one last semester. I think it was just like by call there, wasn't it? [SPEAKER TURN]
+                         
+[33:38.980 --> 33:42.080]  Um something like that I think one of a couple classes I cancelled. [SPEAKER TURN]
+                         
+[33:42.080 --> 33:46.720]  Some classes didn't, some classes didn't. It was already they didn't really know what was gonna happen. [SPEAKER TURN]
+                         
+[33:47.080 --> 33:47.640]  Yeah. [SPEAKER TURN]
+                         
+[33:48.080 --> 33:48.440]  Yeah. [SPEAKER TURN]
+                         
+[33:48.440 --> 33:49.340]  Oh well, [SPEAKER TURN]
+                         
+[33:49.500 --> 33:52.520]  It goes up to the professor whether they did it or not. [SPEAKER TURN]
+                         
+[33:52.520 --> 33:54.080]  Well I don't feel like it. Yeah, okay. [SPEAKER TURN]
+                         
+[33:54.340 --> 33:55.180]  No, I think [SPEAKER TURN]
+                         
+[33:55.180 --> 33:55.420]  But it won't. [SPEAKER TURN]
+                         
+[33:55.480 --> 33:59.960]  Yeah. I think D.I.L. will probably have one to make up for missing classes. [SPEAKER TURN]
+                         
+[34:00.560 --> 34:00.900]  What? [SPEAKER TURN]
+                         
+[34:00.900 --> 34:03.580]  D.I.L. will probably have classes. [SPEAKER TURN]
+                         
+[34:04.220 --> 34:04.460]  Yeah.
+[34:04.840 --> 34:06.580]  I wanna have the last week. [SPEAKER TURN]
+                         
+[34:07.140 --> 34:09.320]  Okay. That's me Monday. [SPEAKER TURN]
+                         
+[34:09.800 --> 34:10.700]  Done? [SPEAKER TURN]
+                         
+[34:10.700 --> 34:20.500]  Yeah. Um I guess. That's it. Was there anything else? Do anyone know anyone? Why not? Like take care of this or should I take care of it? [SPEAKER TURN]
+                         
+[34:20.720 --> 34:21.180]  Okay. [SPEAKER TURN]
+                         
+[34:21.180 --> 34:22.600]  Oh wait, just uh yeah. [SPEAKER TURN]
+                         
+[34:22.680 --> 34:27.480]  I dunno if there was something. Well, I think he basically said
+[34:29.580 --> 34:33.060]  um the same things as in the comments.
+[34:34.060 --> 34:35.060]  If I could use it. [SPEAKER TURN]
+                         
+[34:37.980 --> 34:40.060]  Maybe not. [SPEAKER TURN]
+                         
+[34:40.060 --> 34:40.820]  Yeah. [SPEAKER TURN]
+                         
+[34:41.400 --> 34:42.060]  Um
+[34:44.140 --> 34:47.500]  there's really wonderful multiple windows from a single app. [SPEAKER TURN]
+                         
+[34:48.820 --> 34:49.920]  From a single app. [SPEAKER TURN]
+                         
+[34:49.920 --> 34:52.580]  But most we'll probably want to go with the false. [SPEAKER TURN]
+                         
+[34:54.380 --> 34:57.060]  Yeah. Well, I think that was something else. [SPEAKER TURN]
+                         
+[34:57.140 --> 34:58.760]  I think the comments that basically say is what he says. [SPEAKER TURN]
+                         
+[34:58.840 --> 35:04.960]  Yeah, exactly. Just the other comment about whether you wanna do both speaker characterisation and topic segmentation. [SPEAKER TURN]
+                         
+[35:05.540 --> 35:06.020]  Mm. [SPEAKER TURN]
+                         
+[35:06.040 --> 35:08.680]  Okay, that's probably it. I'll try more soon. [SPEAKER TURN]
+                         
+[35:08.680 --> 35:13.520]  Oh. And now we have seven percent of the persons. [SPEAKER TURN]
+                         
+[35:13.560 --> 35:15.460]  Yeah. [SPEAKER TURN]
+                         
+[35:15.460 --> 35:19.040]  Okay good, So we need to t be okay boss, right? [SPEAKER TURN]
+                         
+[35:19.280 --> 35:23.080]  You're okay with uh having uh something. [SPEAKER TURN]
+                         
+[35:23.120 --> 35:24.200]  Yeah. [SPEAKER TURN]
+                         
+[35:25.920 --> 35:27.020]  Signing off and [SPEAKER TURN]
+                         
+[35:27.040 --> 35:27.400]  Yeah.
+[35:29.320 --> 35:32.840]  Oh my God. Should we turn this up or no? [SPEAKER TURN]
+                         
+[35:33.840 --> 35:35.760]  For a panel now. [SPEAKER TURN]
+                         
+[35:36.600 --> 35:37.160]  Hmm.
+[35:39.240 --> 35:42.520]  Is she still here? Yes you are. [SPEAKER TURN]
