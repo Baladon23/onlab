@@ -1,0 +1,56 @@
+wer-cer results
+    whisper_test.ipynb for librispeech results (the conformer model was ran from a different file)
+    fastconformer_wer_cer results for NeMo on Fleurs
+    show_wer_cer_results for Whisper models on Fleurs
+    whisper_test.ipynb for large models
+Since this model was trained on publically available speech datasets, the performance of this model might degrade for speech which includes technical terms, or vernacular that the model has not been trained on. The model might also perform worse for accented speech. The model only outputs the punctuations: '.', ',', '?' and hence might not do well in scenarios where other punctuations are also expected.
+    source https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_multilingual_fastconformer_hybrid_large_pc
+    file multilingual_fastconformer.ipynb
+    ez a cucc kb. 30 perc alatt ment át egy mappán, de nem támogat minden nyelvet és nem is feltétlenül a legpontosabb
+https://arxiv.org/pdf/2212.04356.pdf
+    results near 20-22nd page for Whisper and Librispeech datasets
+    also see https://github.com/openai/whisper
+https://github.com/wq2012/awesome-diarization?tab=readme-ov-file#Datasets
+    diarization datasets are often pricey
+https://github.com/openai/whisper/tree/main/whisper/normalizers
+    I have to write about whisper-large-v3 not running on 1050Ti
+    write something about normalizers
+    e.g. normalizers have to be written for each language, so I did not bother to test them (minimal difference without them in English, so what's the point)
+    write something that I did not care that much about punctualization and capitalization
+    mention that there is no official support for diarization
+https://groups.inf.ed.ac.uk/ami/corpus/overview.shtml
+    ami overview
+    downloaded with help from https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/asr/speaker_diarization/datasets.html#ami-meeting-corpus
+    download https://groups.inf.ed.ac.uk/ami/download/
+    participant IDs https://groups.inf.ed.ac.uk/ami/corpus/participantids.shtml
+    meeting IDs https://groups.inf.ed.ac.uk/ami/corpus/meetingids.shtml
+    you need EVAL (or test) dataset, because dev is used for training
+    a good alternative could have been https://github.com/yufan-aslp/AliMeeting
+https://github.com/NVIDIA/NeMo/issues/1710
+    speaker verification vs recognition vs diarization
+    in the introduction there is a neat part on the diarization pipeline: https://github.com/NVIDIA/NeMo/blob/main/tutorials/speaker_tasks/ASR_with_SpeakerDiarization.ipynb
+        To overcome such limitations, concatenated minimum-permutation word error rate (cpWER) is proposed as a new scoring method which can evaluate speaker diarization and speech recognition performance at the same time.
+    model I used: https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/titanet_large
+    model I may or may not used: https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/diar_msdd_telephonic
+https://github.com/nryant/dscore
+    to score rttm file similarities
+https://github.com/Picovoice/speaker-diarization-benchmark
+    diarization error rate
+    ignore_overlaps : bool, optional
+        If True, ignore regions in the reference diarization in which more
+        than one speaker is speaking.
+        (Default: False)
+write about problems with NeMo and stuff (mainly everything still being partly written in Python 2 or depending on something in Python 2)
+introduction to speaker diarization
+    https://lajavaness.medium.com/speaker-diarization-an-introductory-overview-c070a3bfea70
+    https://lajavaness.medium.com/comparing-state-of-the-art-speaker-diarization-frameworks-pyannote-vs-nemo-31a191c6300
+    (https://lajavaness.medium.com/deep-dive-into-nemo-how-to-efficiently-tune-a-speaker-diarization-pipeline-d6de291302bf)
+        a possible continutation of the research would be hyperparameter optimization for specific diarization scenarios
+https://github.com/akashmjn/tinydiarize/tree/main
+    it can distinguish *speaker turns*
+    results are in tinydiarize_test.ipynb I believe this and whisper_mahmoud_test1.ipynb are the only file that is not in a trivial place
+https://github.com/MahmoudAshraf97/whisper-diarization
+    does not work at all
+https://github.com/ggerganov/whisper.cpp
+    examine the possible sources of difference between the results of the native tinydiarize implementation and this
+
