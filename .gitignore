@@ -1,7 +1,7 @@
 todos.txt
 *.wav
-*.rttm
+#*.rttm
+*.bin
 *.uem
 ami/ami_dataset/train/*
 ami/ami_dataset/dev/*
-
